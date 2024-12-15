@@ -80,6 +80,7 @@ h2 {
     color: white;
     border-radius: 6px;
     border: none;
+    cursor: pointer;
 }
 
 #container2 > h4 {
